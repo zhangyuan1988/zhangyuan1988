@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zhangyuan1988/zhangyuan1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I’m [zhangyuan1988](https://github.com/zhangyuan1988) 👋
+
+- 🔭 I’m currently working in ******* (China).
+- 🌱 I’m currently learning Javascript.
+- 🤔 I’m looking for help with Javascript development.
+- 💬 Ask me about Anything you want~
+- 📫 Reach me: remember.1988@outlook.com
+  
+![booms21](https://github-readme-stats.vercel.app/api?username=zhangyuan1988&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
+![zhangyuan1988's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyuan1988&layout=compact&hide_border=true&langs_count=10)
