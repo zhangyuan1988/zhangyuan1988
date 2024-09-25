@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I’m [zhangyuan1988](https://github.com/zhangyuan1988) 👋
+### Hi there! 👋
 
 - 🔭 I’m currently working in ******* (China).
 - 🌱 I’m currently learning Javascript.
